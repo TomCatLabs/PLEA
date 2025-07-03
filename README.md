@@ -12,12 +12,12 @@ This project is maintained by [Tomcat Labs](https://tomcatlabs.com), a grassroot
 
 ---
 
-##  Project Goals
+## Project Goals
 
-    ⁃    Enable individuals to log and escalate labor-related grievances in prison settings.
-    ⁃    Aggregate decentralized reports into a collective knowledge base
-    ⁃    Use LLM tools to identify and recommend paths for advocacy or legal awareness.
-    ⁃    Create a scalable model for other advocacy contexts beyond prison labor.
+- Enable individuals to log and escalate labor-related grievances in prison settings.
+- Aggregate decentralized reports into a collective knowledge base.
+- Use LLM tools to identify and recommend paths for advocacy or legal awareness.
+- Create a scalable model for other advocacy contexts beyond prison labor.
 
 ---
 
